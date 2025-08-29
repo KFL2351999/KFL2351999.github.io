@@ -7,7 +7,7 @@
 
 ## Flutter Notes - [8/29/2025]
 
-### 🧱 What is Flutter?
+### What is Flutter?
 - Definition:
 - Why is it useful?
 
