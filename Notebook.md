@@ -42,8 +42,8 @@
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
 |Variable| A named container used to store a value that may change. | `var x = 5;` |  |  |
-|      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
-|      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
+|Constant| A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
+|Data Type| The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
 |      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
 |      | Whole number values. | `int age = 16;` |  |  |
 |      | Number values with decimals. | `double age = 16.2;` |  |  |
