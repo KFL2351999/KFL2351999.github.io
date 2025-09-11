@@ -4,6 +4,7 @@
   - [Notes](#notes)
   - [Practice](#practice)
 - [Day 2](#day-2)
+- [Code Definitions](#code_definitions)
 
 ## Flutter Notes - [8/29/2025]
 
